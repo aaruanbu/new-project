@@ -138,7 +138,8 @@ export const Homes = () => {
                     <ul style={{ textDecoration: "none", display: "flex", padding: "2px", alignItems: "center", justifyContent: "space-between", flexWrap: "wrap" }} >
                         <li style={{ listStyleType: "none" }}>ABOUT US <FaCaretDown className="icn" /></li>
                         <li>MINISTER</li>
-                        <li>DEPARTMENTS <FaCaretDown className="icn" /></li>
+                        <li>DEPARTMENTS <FaCaretDown className="icn" />
+                        </li>
                         <li>DOCUMENTS & REPORTS</li>
                         <li>STATISTICS <FaCaretDown className="icn" /></li>
                         <li>INSTITUTION <FaCaretDown className="icn" /></li>
